@@ -14,7 +14,7 @@ const Projects = () => {
                     <div className="lg:w-1/2 lg:pr-4 mb-8 flex flex-col items-center">
                     <h3 className="text-xl font-bold text-center mb-4" >My first portfolio</h3>
                         <div className="project-image-container mb-4">
-                            <img src={Project1} alt="Project 1 Picture" className="w-full h-auto lg:h-64 object-cover" />
+                            <img src={Project1} alt="Project1Pic" className="w-full h-auto lg:h-64 object-cover" />
                         </div>
                         <div className="text-gray-200 text-center">
                             <p>
@@ -27,7 +27,7 @@ const Projects = () => {
                     <div className="lg:w-1/2 lg:pl-4 mb-8 flex flex-col items-center">
                         <h3 className="text-xl font-bold text-center mb-4">Internship</h3>
                         <div className="project-image-container mb-4">
-                            <img src={Project2} alt="Project 2 picture" className="w-full h-auto lg:h-64 object-cover" />
+                            <img src={Project2} alt="Projectpicture" className="w-full h-auto lg:h-64 object-cover" />
                         </div>
                         <div className="text-gray-200 text-center">
                             <p>
